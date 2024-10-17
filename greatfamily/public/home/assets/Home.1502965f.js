@@ -1,0 +1,1 @@
+import{_ as e,o,f as a}from"./vendor.a7bd1854.js";const r={},t={class:"p-3 max-w-3xl py-12 mx-auto m-2"};function c(s,n){return o(),a("h1",t," My Great Family Book ")}var m=e(r,[["render",c]]);export{m as default};

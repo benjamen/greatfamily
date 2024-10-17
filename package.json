@@ -1,0 +1,18 @@
+{
+  "name": "greatfamily",
+  "version": "1.0.0",
+  "description": "A chapter book for family history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cd home && yarn install",
+    "dev": "cd home && yarn dev",
+    "build": "cd home && yarn build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue-router": "^4.4.5"
+  }
+}
